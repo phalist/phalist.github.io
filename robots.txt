@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://phalist.github.io/sitemap.html.gz
+Sitemap: https://phalist.github.io/app/sitemap.html.gz
+Sitemap: https://phalist.github.io/assets/sitemap.html.gz
+Sitemap: https://phalist.github.io/css/sitemap.html.gz
+Sitemap: https://phalist.github.io/includes/sitemap.html.gz
+Sitemap: https://phalist.github.io/item/sitemap.html.gz
+Sitemap: https://phalist.github.io/src/sitemap.html.gz
